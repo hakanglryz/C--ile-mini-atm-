@@ -1,0 +1,8 @@
+D:\c# çalışmalar\Mini Atm\Mini Atm\obj\Debug\Mini Atm.csproj.AssemblyReference.cache
+D:\c# çalışmalar\Mini Atm\Mini Atm\obj\Debug\Mini Atm.csproj.SuggestedBindingRedirects.cache
+D:\c# çalışmalar\Mini Atm\Mini Atm\obj\Debug\Mini Atm.csproj.CoreCompileInputs.cache
+D:\c# çalışmalar\Mini Atm\Mini Atm\bin\Debug\Mini Atm.exe.config
+D:\c# çalışmalar\Mini Atm\Mini Atm\bin\Debug\Mini Atm.exe
+D:\c# çalışmalar\Mini Atm\Mini Atm\bin\Debug\Mini Atm.pdb
+D:\c# çalışmalar\Mini Atm\Mini Atm\obj\Debug\Mini Atm.exe
+D:\c# çalışmalar\Mini Atm\Mini Atm\obj\Debug\Mini Atm.pdb
